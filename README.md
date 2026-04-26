@@ -138,7 +138,7 @@ HTML generated at build time.
 Clone repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/harshitjoshi1706/techpulse-research.git
 cd techpulse-research
 ```
 
