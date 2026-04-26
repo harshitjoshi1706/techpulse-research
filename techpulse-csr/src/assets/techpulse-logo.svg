@@ -1,0 +1,10 @@
+<svg width="160" height="40" viewBox="0 0 160 40" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">TechPulse CSR</title>
+  <rect width="40" height="40" rx="10" fill="#0A63FF"/>
+  <path d="M11 21.6H17.3L20 12L24.2 29L27.1 19.1H33" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M52 14H44V10H64V14H56V31H52V14Z" fill="#0F172A"/>
+  <path d="M67.3 31V10H83.1V13.7H71.4V18.5H81.7V22H71.4V27.3H83.5V31H67.3Z" fill="#0F172A"/>
+  <path d="M96.4 31.4C90.1 31.4 85.5 26.8 85.5 20.5C85.5 14.2 90.1 9.6 96.4 9.6C100.3 9.6 103.8 11.6 105.6 14.8L102.2 16.8C101 14.7 98.9 13.4 96.4 13.4C92.5 13.4 89.7 16.3 89.7 20.5C89.7 24.7 92.5 27.6 96.4 27.6C99 27.6 101.1 26.3 102.3 24.1L105.8 26C103.9 29.4 100.4 31.4 96.4 31.4Z" fill="#0F172A"/>
+  <path d="M109.3 31V10H113.4V18.4H123V10H127.1V31H123V22.1H113.4V31H109.3Z" fill="#0F172A"/>
+  <path d="M132.4 31V10H140.8C145.4 10 148.5 12.7 148.5 16.8C148.5 20.9 145.4 23.6 140.8 23.6H136.5V31H132.4ZM136.5 20H140.5C142.9 20 144.3 18.8 144.3 16.8C144.3 14.9 142.9 13.7 140.5 13.7H136.5V20Z" fill="#0A63FF"/>
+</svg>

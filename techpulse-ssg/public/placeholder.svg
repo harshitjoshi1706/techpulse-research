@@ -1,0 +1,8 @@
+<svg width="1200" height="675" viewBox="0 0 1200 675" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="675" fill="#EAF2FF"/>
+  <rect x="96" y="96" width="1008" height="483" rx="24" fill="#FFFFFF" stroke="#C9DAF2" stroke-width="4"/>
+  <circle cx="222" cy="218" r="54" fill="#1463FF"/>
+  <path d="M166 474L393 291L541 416L650 325L1034 474H166Z" fill="#B8D1FF"/>
+  <path d="M166 474L393 291L541 416L650 325L1034 474H166Z" stroke="#1463FF" stroke-width="8" stroke-linejoin="round"/>
+  <text x="600" y="594" text-anchor="middle" fill="#102033" font-family="Arial, sans-serif" font-size="42" font-weight="700">TechPulse</text>
+</svg>

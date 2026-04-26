@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "slug": "ai-assistants-move-into-everyday-productivity",
+    "title": "AI Assistants Move Into Everyday Productivity Tools",
+    "category": "AI",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995",
+    "excerpt": "Modern AI assistants are becoming practical helpers inside email, documents, calendars, and team workspaces.",
+    "content": "AI assistants are moving beyond novelty demos and becoming part of daily productivity workflows. Teams are using them to summarize meetings, draft documents, organize tasks, and search internal knowledge bases. The biggest shift is not only better language models, but better integration with the tools people already use every day. Companies are also paying closer attention to privacy, permissions, and audit trails so employees can use AI features without exposing sensitive data.",
+    "date": "2026-01-08",
+    "author": "Maya Chen"
+  },
+  {
+    "id": 2,
+    "slug": "edge-ai-brings-smarter-features-to-devices",
+    "title": "Edge AI Brings Smarter Features to Devices",
+    "category": "AI",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475",
+    "excerpt": "Phones, laptops, cameras, and sensors are running more AI tasks locally for speed and privacy.",
+    "content": "Edge AI allows devices to process data locally instead of sending every request to a cloud service. This makes features faster, reduces network costs, and can improve privacy because sensitive data stays on the device. Smartphones now use local AI for photo editing, voice commands, translation, and battery optimization. Industrial sensors and security cameras are also adopting edge AI to detect problems in real time without waiting for a remote server.",
+    "date": "2026-01-19",
+    "author": "Daniel Brooks"
+  },
+  {
+    "id": 3,
+    "slug": "foldable-phones-focus-on-durability",
+    "title": "Foldable Phones Focus on Durability",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97",
+    "excerpt": "The newest foldable phones are improving hinges, screens, and battery life to reach mainstream users.",
+    "content": "Foldable phones are becoming more refined as manufacturers improve the parts that matter most: hinges, flexible displays, and battery performance. Early models attracted attention but raised questions about long-term durability. Recent devices use stronger materials, tighter dust protection, and better software layouts for multitasking. While prices remain high, the category is moving closer to everyday buyers who want a compact phone that can also work like a small tablet.",
+    "date": "2026-02-03",
+    "author": "Riya Patel"
+  },
+  {
+    "id": 4,
+    "slug": "wearables-shift-from-step-counts-to-health-insights",
+    "title": "Wearables Shift From Step Counts to Health Insights",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30",
+    "excerpt": "Smartwatches and fitness bands are adding richer health metrics while staying focused on everyday convenience.",
+    "content": "Wearable devices are no longer just counting steps. Newer smartwatches and fitness bands track sleep quality, heart rate trends, stress levels, workout recovery, and temperature changes. The value comes from turning raw sensor data into helpful insights that users can understand quickly. As health features expand, companies must balance convenience with accuracy and make clear which features are wellness tools rather than medical diagnosis systems.",
+    "date": "2026-02-16",
+    "author": "Ethan Wells"
+  },
+  {
+    "id": 5,
+    "slug": "ransomware-defense-starts-with-basic-security-habits",
+    "title": "Ransomware Defense Starts With Basic Security Habits",
+    "category": "Cybersecurity",
+    "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3",
+    "excerpt": "Backups, patching, access control, and employee training remain the strongest starting points against ransomware.",
+    "content": "Ransomware attacks continue to target businesses of every size, but many successful defenses begin with basic security habits. Reliable offline backups, regular software patching, multi-factor authentication, and least-privilege access can reduce the damage of an attack. Employee training also matters because many incidents begin with phishing emails. Security teams are now combining these fundamentals with endpoint monitoring and faster incident response plans.",
+    "date": "2026-03-02",
+    "author": "Lena Ortiz"
+  },
+  {
+    "id": 6,
+    "slug": "passkeys-make-passwordless-login-more-realistic",
+    "title": "Passkeys Make Passwordless Login More Realistic",
+    "category": "Cybersecurity",
+    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c",
+    "excerpt": "Passkeys are gaining support across major platforms as companies look for safer and simpler sign-in flows.",
+    "content": "Passkeys are becoming a practical replacement for passwords on many websites and apps. They use public key cryptography and are usually protected by a device unlock method such as a fingerprint, face scan, or PIN. This makes them harder to steal through phishing because the private key never leaves the user's device. Adoption still depends on user education and recovery flows, but the technology is becoming easier to implement and use.",
+    "date": "2026-03-11",
+    "author": "Noah Singh"
+  },
+  {
+    "id": 7,
+    "slug": "javascript-frameworks-prioritize-speed-and-simplicity",
+    "title": "JavaScript Frameworks Prioritize Speed and Simplicity",
+    "category": "Programming",
+    "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6",
+    "excerpt": "Modern JavaScript tooling is focusing on faster builds, smaller bundles, and better developer experience.",
+    "content": "The JavaScript ecosystem continues to evolve around performance and developer experience. Frameworks and build tools are improving server rendering, static generation, routing, and code splitting while trying to reduce configuration complexity. Developers are also choosing tools based on how quickly they can build, test, and deploy real features. The result is a stronger focus on practical defaults and clear documentation instead of endless setup choices.",
+    "date": "2026-03-18",
+    "author": "Ava Thompson"
+  },
+  {
+    "id": 8,
+    "slug": "typescript-adoption-keeps-growing-in-large-codebases",
+    "title": "TypeScript Adoption Keeps Growing in Large Codebases",
+    "category": "Programming",
+    "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4",
+    "excerpt": "Teams are using TypeScript to improve maintainability, catch errors earlier, and make refactoring safer.",
+    "content": "TypeScript has become a default choice for many frontend and Node.js teams because it helps catch mistakes before code reaches production. Strong typing makes large codebases easier to understand and refactor, especially when many developers work on the same product. The ecosystem around TypeScript has also matured, with better editor support, testing tools, and framework integration. For new teams, the main challenge is learning how to write useful types without making the code harder to read.",
+    "date": "2026-03-26",
+    "author": "Marcus Lee"
+  },
+  {
+    "id": 9,
+    "slug": "serverless-platforms-mature-for-business-apps",
+    "title": "Serverless Platforms Mature for Business Apps",
+    "category": "Cloud",
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa",
+    "excerpt": "Serverless infrastructure is becoming more reliable for APIs, background jobs, and event-driven systems.",
+    "content": "Serverless platforms are now common in business applications that need flexible scaling without heavy infrastructure management. Developers can deploy APIs, scheduled jobs, file processors, and event handlers while the cloud provider handles capacity. This model can reduce operational work, but teams still need to monitor cold starts, costs, permissions, and vendor-specific limits. For many products, serverless works best when the architecture is simple and event boundaries are clear.",
+    "date": "2026-04-04",
+    "author": "Sophia Grant"
+  },
+  {
+    "id": 10,
+    "slug": "multi-cloud-strategy-requires-clear-governance",
+    "title": "Multi-Cloud Strategy Requires Clear Governance",
+    "category": "Cloud",
+    "image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8",
+    "excerpt": "Using multiple cloud providers can improve flexibility, but it also increases operational complexity.",
+    "content": "A multi-cloud strategy can help companies avoid depending on one provider and choose the best service for each workload. However, the benefits are only realistic when teams have clear governance. Security policies, cost tracking, deployment standards, observability, and incident response must work across environments. Without those controls, multi-cloud can create duplicated systems and slow teams down. The strongest strategies start with specific business reasons rather than adopting multiple providers by default.",
+    "date": "2026-04-10",
+    "author": "Owen Miller"
+  },
+  {
+    "id": 11,
+    "slug": "developer-tools-add-ai-code-review-features",
+    "title": "Developer Tools Add AI Code Review Features",
+    "category": "Programming",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c",
+    "excerpt": "AI-assisted code review is helping teams spot bugs, summarize changes, and improve pull request quality.",
+    "content": "Developer platforms are adding AI features that review code, explain changes, and suggest improvements before humans approve a pull request. These tools are useful for catching simple mistakes, highlighting risky files, and reducing review fatigue. They do not replace engineering judgment, especially for product behavior and architecture decisions. The most effective teams use AI review as an early signal while keeping human reviewers responsible for correctness and maintainability.",
+    "date": "2026-04-15",
+    "author": "Priya Nair"
+  },
+  {
+    "id": 12,
+    "slug": "home-routers-get-smarter-security-features",
+    "title": "Home Routers Get Smarter Security Features",
+    "category": "Cybersecurity",
+    "image": "https://images.unsplash.com/photo-1606904825846-647eb07f5be2",
+    "excerpt": "New home networking devices are adding automatic updates, device isolation, and threat detection.",
+    "content": "Home routers are becoming more important as households connect laptops, phones, cameras, speakers, and smart appliances to the same network. New models are adding automatic firmware updates, guest networks, device isolation, and basic threat detection. These features help protect users who may not know how to configure advanced security settings. Clear mobile apps are also making it easier to see which devices are connected and block unknown activity.",
+    "date": "2026-04-21",
+    "author": "Caleb Ross"
+  }
+]
